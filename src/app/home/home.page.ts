@@ -9,7 +9,12 @@ import { IonicModule } from '@ionic/angular';
   imports: [IonicModule],
 })
 export class HomePage {
-  trocouCurso(event: any){
-    console.log(event.detail.value);
-  }
+produtos = [
+  {'id':0,'nome': 'ps5','preço':4000},
+  {'id':1,'nome': 'ps4','preço':4000},
+  {'id':2,'nome': 'nintendo','preço':4000},
+  {'id':3,'nome': 'xbox','preço':4000},
+  {'id':4,'nome': 'pcy','preço':4000},
+ 
+]
 }
