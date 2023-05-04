@@ -14,7 +14,7 @@ produtos = [
   {'id':1,'nome': 'ps4','preço':4000},
   {'id':2,'nome': 'nintendo','preço':4000},
   {'id':3,'nome': 'xbox','preço':4000},
-  {'id':4,'nome': 'pcy','preço':4000},
+  {'id':4,'nome': 'pc','preço':4000},
  
 ]
 }
